@@ -4,8 +4,10 @@
   "description": "Ein Orakelspruchprogramm zum testen",
   "main": "orakelvonioria.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "orakelvonioria.js"
   },
   "author": "Markus Flür <markusfluer@markusfluer.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": "./orakelvonioria.js"
 }
