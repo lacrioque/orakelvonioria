@@ -1,0 +1,11 @@
+{
+  "name": "orakelvonioria",
+  "version": "1.0.0",
+  "description": "Ein Orakelspruchprogramm zum testen",
+  "main": "orakelvonioria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Flür <markusfluer@markusfluer.de>",
+  "license": "MIT"
+}
